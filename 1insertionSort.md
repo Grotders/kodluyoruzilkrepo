@@ -11,7 +11,7 @@
 
 ## 2-) Big-O gösterimini yazınız.
 
-(n^2)
+O(n^2)
 
 ## 3-) Worst Case, Average Case, Best Case
 
@@ -25,8 +25,11 @@ Average Case
 
 ## 5-) [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
-[7,3,5,8,2,9,4,15,6]
-[3,7,5,8,2,9,4,15,6]
-[3,5,7,8,2,9,4,15,6]
-[3,5,7,8,2,9,4,15,6]
+[7,3,5,8,2,9,4,15,6]  
+[3,7,5,8,2,9,4,15,6]  
+[3,5,7,8,2,9,4,15,6]  
+[3,5,7,8,2,9,4,15,6]  
 [2,3,5,7,8,9,4,15,6]
+
+
+more [patika](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje)
